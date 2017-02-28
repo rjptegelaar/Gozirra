@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.ser1</groupId>
   <artifactId>gozirra-client</artifactId>
-  <version>0.4.1-SNAPSHOT</version>
+  <version>0.4.1</version>
   <name>gozirra-client</name>
   	<scm>
 		<connection>scm:git:https://github.com/rjptegelaar/gozirra-client.git</connection>
 		<developerConnection>scm:git:git@github.com:rjptegelaar/gozirra-client.git</developerConnection>
 		<url>https://github.com/rjptegelaar/gozirra-client.git</url>
-	  <tag>HEAD</tag>
+	  <tag>gozirra-client-0.4.1</tag>
   </scm>
   
   <build>
