@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.ser1</groupId>
   <artifactId>gozirra-client</artifactId>
-  <version>0.4.2-SNAPSHOT</version>
+  <version>0.4.1-SNAPSHOT</version>
   <name>gozirra-client</name>
   	<scm>
 		<connection>scm:git:https://github.com/rjptegelaar/gozirra-client.git</connection>
@@ -10,6 +10,10 @@
 		<url>https://github.com/rjptegelaar/gozirra-client.git</url>
 	  <tag>HEAD</tag>
   </scm>
+  
+  <properties>  	
+  	<maven.javadoc.failOnError>false</maven.javadoc.failOnError>
+  </properties>
   
   <build>
 	<finalName>${project.artifactId}</finalName>
